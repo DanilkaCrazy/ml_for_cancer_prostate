@@ -4,12 +4,14 @@
 
 ### Наборы данных
 Наборы данных были взяты с сайта TCGA-PRAD, доступные по ссылке: https://www.linkedomics.org/data_download/TCGA-PRAD/
+
 Форматы данных:
 
 - tsi - Mixed data matrix file
 - cct - continuous data matrix file
 - cbt - binary data matrix file
 - cgt - categorical data matrix file
+
 Все, кроме нескольких наборов данных в формате cct - легче скачивать через !wget, файлы формата cct представлены архивом (кроме miRNA).
 
 Взятые наборы данных:
