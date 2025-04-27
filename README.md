@@ -7,6 +7,7 @@
 * *Prostat_Cancer_miRNA_IncRNA_binary_and_multi_class_classification (1).ipynb* - основной файл, содержит предобработку, объединение данных по TCGA, а также разработку моделей машинного обучения (МО) бинарной и многоклассовой классификации с использованием Random Forest.
 * *Other_model.ipynb* - разработка моделей МО с использование XGBoost, LightGBM.
 * *microRNA_analyth.ipynb* - анализ данных микроРНК с сайта GEO.
+* *identifying_hypotheses.ipynb* - выявленные гипотезы.
   
 ## 1. Сбор и обработка данных
 
